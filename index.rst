@@ -6,4 +6,6 @@ Cloudlynx Documentation
 
    instanzen
    dashboard
+   schlussel
+   netzwerk
 
