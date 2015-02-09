@@ -4,8 +4,9 @@ Cloudlynx Documentation
 .. toctree::
          :maxdepth: 3
 
-   instanzen
+   build
    dashboard
-   schlussel
-   netzwerk
+   creatingkeypairs
+   networksetup
+   storage
 
