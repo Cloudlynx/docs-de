@@ -1,8 +1,8 @@
-Cloudlynx Documentation
+Cloudlynx Dokumentation
 =======================
 
 .. toctree::
-         :maxdepth: 3
+   :maxdepth: 3
 
    build
    dashboard
