@@ -6,7 +6,11 @@ Cloudlynx Dokumentation
 
    build
    dashboard
-   creatingkeypairs
    networksetup
+   creatingkeypairs
+   security
+   launch
+   access
    storage
+   transfer
 
